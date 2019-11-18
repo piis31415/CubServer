@@ -33,8 +33,8 @@ update = ->
 update()
 
 #Here is parserDay, the core function of the database manager. 
-#This basically aquires the schedule for a date, if one is supplied.
-#extra options are for practicality purposes. In desparate need of rewrite.
+#This basically acquires the schedule for a date, if one is supplied.
+#extra options are for practicality purposes. In desperate need of rewrite.
 #Date must be in YYYY-MM-DD format.
 
 
