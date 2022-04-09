@@ -22,7 +22,7 @@
     "ioredis": "^4.14.3",
     "jsonwebtoken": "^5.7.0",
     "log": "^1.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "^1.7.0",
     "node-schedule": "^0.2.9",
     "underscore": "^1.9.1"
