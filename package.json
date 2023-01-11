@@ -20,7 +20,7 @@
     "express-authentication": "^0.3.2",
     "express-authentication-basic": "^0.3.1",
     "ioredis": "^4.14.3",
-    "jsonwebtoken": "^5.7.0",
+    "jsonwebtoken": "^9.0.0",
     "log": "^1.4.0",
     "moment": "^2.24.0",
     "morgan": "^1.7.0",
